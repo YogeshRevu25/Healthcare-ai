@@ -38,18 +38,6 @@ It is deployed as a **Streamlit Web App** so users can interactively explore dat
 
 ---
 
-## 🖼 Screenshots
-
-### 1️⃣ App Homepage  
-![App Homepage](assets/homepage.png)
-
-### 2️⃣ Visualization Example  
-![Visualization](assets/visualization.png)
-
-### 3️⃣ Prediction Form  
-![Prediction](assets/prediction.png)
-
----
 
 ## 🚀 Live Demo
 🔗 **Try the App Here:** [Click to Open](https://yogeshrevu25-healthcare-ai.streamlit.app)  
